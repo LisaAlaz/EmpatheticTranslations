@@ -1,0 +1,151 @@
+﻿emotion,input_text,target_text
+Fear,Are you undergoing a personal crisis (experiencing difficulties with loved ones e.g. falling out with friends)?,"Does anything feel particularly off right now, are you having major problems in your life?"
+Anger,Was this caused by a recent or distant event (or events)?,"The event that caused your anger, would you consider it to be recent or did it happen a while back?"
+Fear,Have you recently attempted protocol 6 and found this reignited unmanageable emotions as a result of old events?,"I know that Protocol 6 can sometimes be a trigger for renewed feelings of anxiety around a past traumatic event, so before I recommend it I'd like to know if that has happened to you. Is Protocol 6 something you have tried recently and has it made you feel anxious?"
+Sadness,"In previous conversations, have you considered other viewpoints presented?","Thank you for letting me know. Do you believe you have explored all of your options, including those that may have been suggested to you by other people?"
+Sadness,Have you recently attempted protocol 6 and found this reignited unmanageable emotions as a result of old events?,Did using Protocol 6 recently make your feelings more uncontrollable based on this past situation?
+Anger,Do you feel that you are trying to control someone?,Control is something that we may desire when we feel we have little or none on our own matters. Could it be that you are hoping or trying to control someone in your life?
+Fear,Are you always blaming and accusing yourself for when something goes wrong?,Do you sense that you have a tendency to always blame and accuse yourself whenever something goes wrong?
+Fear,Thank you. Now I will ask some questions to understand your situation.,Thank you for sharing all that with me. If you don't mind I'm now going to ask you a few questions so I can further understand your situation.
+Fear,Are you undergoing a personal crisis (experiencing difficulties with loved ones e.g. falling out with friends)?,"I would like to ask you about how things are going in your life in general. Right now, do you feel there are unresolved issues with friends or family?"
+Fear,Thank you. Now I will ask some questions to understand your situation.,"I really appreciate you sharing your feelings with me. If you feel comfortable to continue, I would like to ask you some questions to understand your situation a little more."
+Sadness,Do you believe that you should be the saviour of someone else?,"If I may, do you think that perhaps you are trying to be someone else's saviour?"
+Fear,Have you recently attempted protocol 6 and found this reignited unmanageable emotions as a result of old events?,"I wonder, do you think trying Protocol 6 to revisit the event, if you have done so, may have contributed to this feeling?"
+Fear,Have you strongly felt or expressed any of the following emotions towards someone:,"Feeling strong emotions towards others is quite normal, I'm not here to judge you for it. Have you felt or expressed any of the following emotions towards others:"
+Sadness,Thank you. Now I will ask some questions to understand your situation.,Thanks for sharing that. I have a few more questions if you are feeling up to it.
+Sadness,"In previous conversations, have you considered other viewpoints presented?","Thinking about more or less recent situations, have you ever put yourself in someone else's shoes during a conversation?"
+Anger,Do you feel that you are trying to control someone?,"Have you ever stopped to think if you feel like this because you are trying to control someone, and found that you actually are?"
+Anger,Was this caused by a recent or distant event (or events)?,"Please tell me, did this happen recently or some time ago?"
+Anger,Was this caused by a specific event/s?,Did this happen because of something specific?
+Anger,Have you strongly felt or expressed any of the following emotions towards someone:,I would like to investigate your emotional state a bit further if that's ok. Have you been feeling any of these strong emotions toward anyone specific:
+Fear,Do you feel that you are trying to control someone?,"Do you think it's possible that, in managing your negative feelings, you may be showing controlling behaviours toward someone in your life?"
+Fear,Do you believe that you should be the saviour of someone else?,Do you think that you are responsible for rescuing someone other than yourself?
+Anger,Was this caused by a specific event/s?,I am sorry to hear that. Do you have a specific event in mind that has made you feel this way?
+Fear,Thank you. Now I will ask some questions to understand your situation.,Thank you for your openness so far. I would now like to continue with some more questions so that I can understand and help you better.
+Anger,"In previous conversations, have you considered other viewpoints presented?","Have you walked in the other person's shoes, looked at this situation from their point of view?"
+Sadness,Was this caused by a specific event/s?,Thank you. Did something specific happen to make you sad?
+Sadness,Thank you. Now I will ask some questions to understand your situation.,Thank you for sharing that with me. I am going to ask you some questions so we can get to the bottom of what is troubling you.
+Fear,Thank you. Now I will ask some questions to understand your situation.,"Thank you for sharing this with me. Now, so that I can have a better understanding, I'd like to ask some more questions."
+Fear,"In previous conversations, have you considered other viewpoints presented?","Let's have a look at your everyday life now. When you're talking to people, when you're chatting about things and you're expressing opinions, do you think about the different viewpoints people have?"
+Anger,Do you feel that you are trying to control someone?,"Okay, and then what about how you want to behave. Are there any urges right now to try and control someone in your life?"
+Anger,Have you recently attempted protocol 6 and found this reignited unmanageable emotions as a result of old events?,"Have you attempted Protocol 6 recently and, if so, have you been thinking of some traumatic situation from your past that could've opened back up these wounds and brought out these emotions?"
+Anger,Have you recently attempted protocol 6 and found this reignited unmanageable emotions as a result of old events?,"If you have tried Protocol 6 how did it go, did it bring up bad memories?"
+Fear,Do you believe that you should be the saviour of someone else?,Do you think that sometimes you might feel the need to come to someone's rescue?
+Fear,Do you feel that you are trying to control someone?,"For one reason or another, it is quite common to want to control things or people in our life, especially when we are going through a rough patch and feel that nothing is going our way. Is there a chance that you might be trying to control someone you know?"
+Anger,Are you undergoing a personal crisis (experiencing difficulties with loved ones e.g. falling out with friends)?,I would like to know how things have been going in your life in general. Have there been any major distressing events or challenges recently?
+Anger,Are you undergoing a personal crisis (experiencing difficulties with loved ones e.g. falling out with friends)?,"I would like to know if you think this negative feeling has created a larger problem for you. Has this feeling led to tensions between you and your loved ones, or has it triggered a personal crisis?"
+Fear,Do you feel that you are trying to control someone?,"Is there any chance you might be forcing someone else, perhaps someone you care about, into behaving in a way that you want?"
+Sadness,Are you undergoing a personal crisis (experiencing difficulties with loved ones e.g. falling out with friends)?,"Thank you for your answers so far. May I ask if you feel that you are undergoing a personal crisis right now, or if you are experiencing unmanageable interpersonal difficulties with those around you?"
+Anger,Do you believe that you should be the saviour of someone else?,"Looking at yourself with objectivity, do you feel that you always need to be the hero of your own story, and bail everyone out of negative situations?"
+Anger,Are you always blaming and accusing yourself for when something goes wrong?,"Thank you, I see. Would you say you that lately you have a tendency to believe that you are the root cause for all of your problems?"
+Anger,Are you always blaming and accusing yourself for when something goes wrong?,Would you say that you always blame and accuse yourself whenever something goes wrong?
+Fear,Do you believe that you should be the saviour of someone else?,"Sometimes we wish we could help or save everyone around us, even at the expense of our own happiness. Have you felt particularly inclined to save or rescue someone lately? "
+Sadness,Was this caused by a specific event/s?,I'm so sorry to hear that. Can you identify a specific event that caused you to feel that way?
+Fear,Are you always blaming and accusing yourself for when something goes wrong?,"Do you find that you always blame yourself for things that go wrong, even if they're out of your control?"
+Fear,Have you recently attempted protocol 6 and found this reignited unmanageable emotions as a result of old events?,"In some cases Protocol 6 can be useful to look back at a particularly traumatic event, but this can sometimes trigger a troublesome emotional response. Have you used Protocol 6 before, and did it cause you to have any unmanageable emotions?"
+Fear,"In previous conversations, have you considered other viewpoints presented?","Would you, in all honesty, say that you're capable of seeing things from other people's points of view?"
+Sadness,Do you believe that you should be the saviour of someone else?,Do you consider yourself to be someone else's saviour?
+Anger,Have you strongly felt or expressed any of the following emotions towards someone:,Do you think that you may have expressed or felt any of the following emotions strongly:
+Fear,Have you recently attempted protocol 6 and found this reignited unmanageable emotions as a result of old events?,I appreciate that it can be difficult to overcome negative thoughts from the past. Has trying out Protocol 6 recently jogged your memory and caused you anxiety by making you recall this event?
+Fear,Was this caused by a recent or distant event (or events)?,"I'm sorry to hear it. When did this happen, recently or a while back?"
+Fear,Was this caused by a recent or distant event (or events)?,"Thank you for sharing this. Without going into too much detail, was this event recent or has it been this way for a while?"
+Fear,Do you believe that you should be the saviour of someone else?,"I know you are going through a difficult moment right now, but please let me investigate a little to try and find out if there's a deeper cause. Do you think you may have a tendency to try to save other people?"
+Fear,Have you strongly felt or expressed any of the following emotions towards someone:,"Sometimes anxiety may cause a lack of trust in people, anger towards others or wanting to seek revenge. Do you feel that your anxiety may have caused you to feel any of these other emotions:"
+Fear,Are you always blaming and accusing yourself for when something goes wrong?,"I see, thank you. Do you always blame yourself when something goes wrong, even if it's not your fault?"
+Sadness,Was this caused by a recent or distant event (or events)?,May I ask if it was something recent or in the past that made this feeling come up?
+Sadness,Do you feel that you are trying to control someone?,"If you think about it, would you like the power to control someone in your life right now?"
+Anger,Are you always blaming and accusing yourself for when something goes wrong?,Have you ever wondered if this bad feeling is because you are always blaming yourself and accusing yourself when something goes wrong?
+Fear,"Do you see yourself as the victim, blaming someone else for how negative you feel?","Do you feel that things are not your fault, that you have done as much as you can and are not to blame, but someone else is?"
+Anger,Do you believe that you should be the saviour of someone else?,"If you connect with how you feel now, is there a need of feeling useful for someone?"
+Sadness,Do you believe that you should be the saviour of someone else?,Could it be that you feel you need to be the saviour of someone else?
+Anger,Was this caused by a recent or distant event (or events)?,Do you think this was brought about by something that just happened or perhaps something more distant in your past?
+Sadness,Are you undergoing a personal crisis (experiencing difficulties with loved ones e.g. falling out with friends)?,"Do you think you may be undergoing a personal crisis, where you're no longer in touch with your support network?"
+Sadness,Do you believe that you should be the saviour of someone else?,"Being loyal and helpful are always beautiful virtues to have, however, they can become unhealthy if we start to forget about our own wellbeing. Do you think it is more important to you to focus on helping others than growing and focusing on yourself?"
+Fear,Was this caused by a recent or distant event (or events)?,"OK, thank you. Can you let me know is this something that has happened recently, or was it a while ago?"
+Anger,Was this caused by a specific event/s?,Did something in particular happen that caused this?
+Anger,Was this caused by a specific event/s?,Would you say that something specific caused you to feel this way?
+Sadness,Do you believe that you should be the saviour of someone else?,Do you feel that you should be helping someone else in this situation?
+Sadness,Was this caused by a recent or distant event (or events)?,Is this something that happened recently or a longer time ago?
+Sadness,Are you undergoing a personal crisis (experiencing difficulties with loved ones e.g. falling out with friends)?,Do you feel you are having troubles with those close to you in your daily life?
+Fear,Have you strongly felt or expressed any of the following emotions towards someone:,I understand that you are going through a difficult moment and I believe that diving into the nature of these emotions will help me understand the best approach to take in order to help get rid of your distress. Have you ever felt or expressed any of the following emotions towards a person or people:
+Fear,Do you believe that you should be the saviour of someone else?,"Thank you, I really appreciate your cooperation, I think we should spend a little time looking at what may be contributing to this feeling. May I ask if in your life you feel like it's your job to somehow 'save' someone else?"
+Fear,Was this caused by a recent or distant event (or events)?,I'm sorry that this happened to you. Did this happen recently or a while ago?
+Sadness,Are you undergoing a personal crisis (experiencing difficulties with loved ones e.g. falling out with friends)?,"Are you experiencing a tough time right now, have you fallen out with friends or loved ones?"
+Sadness,Have you strongly felt or expressed any of the following emotions towards someone:,Have you felt or expressed any of the following feelings towards somebody:
+Sadness,Do you believe that you should be the saviour of someone else?,Do you feel a weight on your shoulders to save others?
+Fear,Do you believe that you should be the saviour of someone else?,Perhaps you are putting too much pressure on yourself to help others. Do you think others rely on you too much?
+Fear,Was this caused by a recent or distant event (or events)?,Did this event happen recently or is it something that has been on your mind for some time?
+Fear,Are you undergoing a personal crisis (experiencing difficulties with loved ones e.g. falling out with friends)?,I worry about how you are feeling. Are you having a particularly tough time in your life at the moment?
+Anger,Are you undergoing a personal crisis (experiencing difficulties with loved ones e.g. falling out with friends)?,"If I may ask, are you struggling with personal issues right now?"
+Fear,Thank you. Now I will ask some questions to understand your situation.,"Thank you for sharing, it helps me understand what you've been going through. I'm just going to ask a few more questions to figure out what's the best way to help you through this."
+Fear,Are you always blaming and accusing yourself for when something goes wrong?,Do you feel you are always making yourself the reason for things going wrong?
+Sadness,Are you always blaming and accusing yourself for when something goes wrong?,"If I may ask this, do you always see yourself at fault for anything that happens?"
+Fear,Have you recently attempted protocol 6 and found this reignited unmanageable emotions as a result of old events?,"Thank you, I was thinking of Protocol 6 as a possible recommendation for you, but I know that sometimes and in certain situations it can be unpleasant. Have you given Protocol 6 a try and was it unpleasant for you?"
+Fear,Was this caused by a recent or distant event (or events)?,I hope you are okay with talking about it. Is this something that caused your anxiety recent or was it something distant in the past?
+Anger,Have you strongly felt or expressed any of the following emotions towards someone:,Have you experienced or displayed any of these emotions toward anyone:
+Anger,"In previous conversations, have you considered other viewpoints presented?",Do you think there's another way to look at this situation?
+Sadness,Was this caused by a recent or distant event (or events)?,"Thank you, I'd like to know what event in your life you think has sparked this feeling. Was it a recent event or more distant in the past?"
+Sadness,"In previous conversations, have you considered other viewpoints presented?",Would you say that you have ever been able to really step outside of yourself and think of a situation from a different point of view?
+Sadness,Thank you. Now I will ask some questions to understand your situation.,Thanks for telling me that. I will now ask you some questions to learn a little more about your situation.
+Sadness,Thank you. Now I will ask some questions to understand your situation.,"I am sorry that you are hurting, please bear with me while I try to investigate this further. I'd like to ask you some more questions, so that I can understand the situation a bit better."
+Anger,Thank you. Now I will ask some questions to understand your situation.,"Very well, thank you for your openness and honesty. I'd like to ask some questions to get a better understanding of your situation."
+Sadness,Do you feel that you are trying to control someone?,"Thank you again, that is helpful for me to understand. Could it be that you are trying to control or manipulate someone else into doing something that you want them to do?"
+Anger,Are you undergoing a personal crisis (experiencing difficulties with loved ones e.g. falling out with friends)?,"Do you find yourself under a great deal of stress right now, having problems with coworkers, friends or family?"
+Fear,Are you always blaming and accusing yourself for when something goes wrong?,Could it be that you are always too hard on yourself?
+Anger,Was this caused by a recent or distant event (or events)?,"Okay, I can understand that. Do you feel this way because of something recent or further away in the past?"
+Sadness,Have you recently attempted protocol 6 and found this reignited unmanageable emotions as a result of old events?,Would you feel really uncomfortable reliving this past negative event?
+Anger,Was this caused by a specific event/s?,"I understand, thank you for opening up to me. Did something happen to cause this?"
+Sadness,"In previous conversations, have you considered other viewpoints presented?",Have you been able to consider other people's perspectives in your previous conversations?
+Sadness,"Do you see yourself as the victim, blaming someone else for how negative you feel?",Is there someone else causing your sadness?
+Sadness,Was this caused by a specific event/s?,I'm sorry to hear that. Is there one particular thing that caused this feeling?
+Sadness,"Do you see yourself as the victim, blaming someone else for how negative you feel?",Would you say that someone else is causing your negative emotions?
+Anger,Do you believe that you should be the saviour of someone else?,Do you usually feel responsible for other people's feelings?
+Sadness,Have you recently attempted protocol 6 and found this reignited unmanageable emotions as a result of old events?,"I wonder, did trying Protocol 6 recently trigger any bad feeling? If this happened, I hope you didn't suffer too much from that exercise."
+Sadness,Are you always blaming and accusing yourself for when something goes wrong?,"Thinking about it, would you say that you tend to always blame yourself when problems occur?"
+Sadness,Was this caused by a recent or distant event (or events)?,Was the event that caused your sadness a recent event or something that happened a while ago?
+Fear,Have you strongly felt or expressed any of the following emotions towards someone:,Has any of this feelings been brought out towards anyone recently:
+Sadness,Was this caused by a recent or distant event (or events)?,You must be hurting right now. Could you share whether this event was recent or longer ago?
+Anger,Do you feel that you are trying to control someone?,"Do you like to imagine yourself taking power and controlling others, sometimes?"
+Fear,"Do you see yourself as the victim, blaming someone else for how negative you feel?",Do you think someone else's attitude and/or behaviour is contributing to how you are feeling?
+Anger,Thank you. Now I will ask some questions to understand your situation.,What you are feeling right now is a valid emotion. I'd like to ask some questions to understand where you're coming from.
+Sadness,Have you strongly felt or expressed any of the following emotions towards someone:,I am thankful for the feelings you shared. May I ask whether you have experienced any of these feelings recently:
+Fear,Was this caused by a specific event/s?,I'm sorry you're not feeling great. Has anything happened to make you feel this way?
+Fear,"In previous conversations, have you considered other viewpoints presented?","In recent conversations you've had with people, have you fully considered their points of view and perspectives, and tried to view the situation through their eyes?"
+Fear,Have you strongly felt or expressed any of the following emotions towards someone:,"I understand you are feeling anxious. In addition to this feeling, have you recently also felt any of the  following emotions towards someone:"
+Sadness,Thank you. Now I will ask some questions to understand your situation.,Thank you. I'd like to ask you some more questions which might help me understand.
+Sadness,Are you undergoing a personal crisis (experiencing difficulties with loved ones e.g. falling out with friends)?,"Have you been facing personal problems with certain people, for example colleagues, friends or family members?"
+Fear,Have you strongly felt or expressed any of the following emotions towards someone:,"Everyone deals with so many emotions throughout the day, and not all of them are positive. I want to ask you if you have recently felt any of these emotions in particular:"
+Fear,Do you feel that you are trying to control someone?,"Without being intrusive, may I ask if there is someone in your life who you feel is not behaving in a way that you wish they would?"
+Sadness,Are you always blaming and accusing yourself for when something goes wrong?,"When you are down, are you always blaming yourself for what has gone wrong in your life?"
+Anger,"Do you see yourself as the victim, blaming someone else for how negative you feel?","Are you having feelings of victimization, and feel like someone else around you is causing you to feel this way?"
+Fear,"In previous conversations, have you considered other viewpoints presented?","Generally speaking, do you think you always listen to other people's perspectives and take note of why they do what they do?"
+Anger,"In previous conversations, have you considered other viewpoints presented?","When you're speaking with others, are you able to listen attentively and consider their viewpoints honestly?"
+Fear,Thank you. Now I will ask some questions to understand your situation.,Thank you very much. I'd like to now ask you some more questions to help me understand what you are going through.
+Anger,Do you feel that you are trying to control someone?,"I see, thanks. What about controlling behaviours, could you be displaying or have displayed any of those toward other people perhaps?"
+Sadness,Are you always blaming and accusing yourself for when something goes wrong?,Do you feel like blame and accusation always fall on yourself if something goes wrong?
+Fear,Was this caused by a recent or distant event (or events)?,Is this something that has happened more recently or in the past?
+Fear,Was this caused by a specific event/s?,I hope you can cope. Do you mind if I ask you whether a particular event or issue has caused your anxiety?
+Sadness,Do you feel that you are trying to control someone?,Do you find yourself trying to control how someone else behaves?
+Sadness,Thank you. Now I will ask some questions to understand your situation.,Thank you. I'll now ask you a few questions to better understand your situation.
+Fear,Was this caused by a specific event/s?,I'm sorry you're going through this right now. Did any particular event cause this? I hope there is something I can do to help.
+Sadness,Have you strongly felt or expressed any of the following emotions towards someone:,Have you experienced or indicated any of these emotions toward anyone:
+Anger,"In previous conversations, have you considered other viewpoints presented?","Do you consider yourself to be someone who listens to other points of view, when it comes to your conversations?"
+Sadness,Was this caused by a specific event/s?,"Thank you for sharing your emotions with me, I understand it may be hard to deal with them right now. So that I can help you better, could you tell me if a specific event caused you to feel this way?"
+Sadness,Have you strongly felt or expressed any of the following emotions towards someone:,Could you tell me if you've been having any of the following emotions lately or if you've shown these emotions to someone else:
+Anger,Was this caused by a specific event/s?,Did someone or something make you angry?
+Fear,"In previous conversations, have you considered other viewpoints presented?","Thanks, I appreciate your honesty and you seem to me a very open person, however it is easy sometimes to get too attached to our convictions and this can prevent us from growing as individuals. In all honesty, do you feel that you have always been able to take onboard other people's point of views?"
+Fear,"Do you see yourself as the victim, blaming someone else for how negative you feel?","Thank you, I understand. Do you blame someone in particular for how you are feeling?"
+Fear,Thank you. Now I will ask some questions to understand your situation.,I appreciate that you felt comfortable enough to share that with me. Do you feel up to sharing some more so I can help?
+Anger,"In previous conversations, have you considered other viewpoints presented?","I wonder if it would be useful to look at this from another perspective, and have you tried?"
+Fear,Do you feel that you are trying to control someone?,Do you think there's a possibility that the way you are behaving may be construed as controlling?
+Fear,Was this caused by a recent or distant event (or events)?,"Oh no, that must have been difficult. Was this recent or distant?"
+Anger,Thank you. Now I will ask some questions to understand your situation.,"Thank you for sharing that, it's really helpful. I'd like to ask some more questions about this if that's OK with you."
+Sadness,Have you recently attempted protocol 6 and found this reignited unmanageable emotions as a result of old events?,"Were you able to attempt Protocol 6, and if so, did you feel like the protocol brought up the same difficult emotions that you experienced in the past?"
+Fear,Do you feel that you are trying to control someone?,Do you believe you have a large influence over the actions and moods of others?
+Fear,"In previous conversations, have you considered other viewpoints presented?",Thank you. Do you feel like you can listen to others to help you get through things?
+Sadness,Thank you. Now I will ask some questions to understand your situation.,"Okay, thank you for that. Please let me understand your situation better with a few more questions."
+Fear,Was this caused by a recent or distant event (or events)?,That's tough. Was that recent or did it happen a while ago? Either way your feelings are completely valid.
+Fear,Have you strongly felt or expressed any of the following emotions towards someone:,"Emotions are often difficult to identify, I think you are doing a great job. It's important we understand where our emotions come from, so I'd like to ask you if you have felt any of these recently:"
+Fear,Was this caused by a recent or distant event (or events)?,"I understand this may be difficult for you to talk about. May I just ask, is it something that happened recently or a while back?"
+Anger,"In previous conversations, have you considered other viewpoints presented?",Have you considered and taken into account any other points of view that were proposed to you during previous conversations?
+Anger,Was this caused by a recent or distant event (or events)?,"Thank you for your response, I would really like to help. Could you tell me if this was caused by a recent event or a distant one?"
